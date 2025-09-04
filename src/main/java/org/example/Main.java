@@ -11,6 +11,8 @@ public class Main {
             for (int j = 1; j <= 10; j++) {
                 System.out.println(i*j);
             }
+
+            System.out.println("Det här är en matematisk formel: ");
         }
     }
 }
