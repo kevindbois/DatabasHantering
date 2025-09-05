@@ -15,12 +15,15 @@ public class bankKunder {
         this.saldo = saldo;
     }
     public String getNamn() {
+
         return namn;
     }
     public void setNamn(String namn) {
+
         this.namn = namn;
     }
     public String getAdress() {
+
         return adress;
     }
     public void setAdress(String adress) {
@@ -46,4 +49,3 @@ public class bankKunder {
     }
 
 
-}
